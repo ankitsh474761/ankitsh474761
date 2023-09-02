@@ -12,6 +12,7 @@ I am facinated to learn most of the technologies and had great enthuast to do pr
 Hii, I am Ankit Sharma from Una, Himachal Pradesh, India. I am 21 years old and pursuing final year B.Tech(CSE) from ABVGIET PRGATINAGAR(SHIMLA). To work for an organization where proffessionalism and enthusiasm are recognized and continuously acquire skills in emerging trends and to achieve a position as a web developer. I have a wide range of skills that include front-end(HTMLS,CSS3,JAVASCRIPT,REACTJS) ,back-end developement using open source technology(Node,Express,MongoDB),design(working closly with designers),database(Mysql).I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards. I am not comfortable with settling, and I am always looking for an opportunity to do better and achieve greatness. My strength as a self-motivated person and a good learner. Positive thinker & a hard worker.
 <br><br>
 <hr>
-->Email  ankitsh474@gmail.com <br>
+->Email  <a href="" >ankitsh474@gmail.com</a> 
+<br>
 ->LinkedIn  https://www.linkedin.com/in/ankit-sharma-72567220b/
 
